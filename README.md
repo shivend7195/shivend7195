@@ -8,7 +8,7 @@ started learning to write thoughts into codes!!!
 
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [shiven7195@gmail.com](mailto:shiven7195@gmail.com)
-* 🧠  I'm learning JAVA
+* 🧠  I'm learning GOLANG
 * 🤝  I'm open to collaborating on projects majorly demands C++ or GOLANG
 
 ### Skills
