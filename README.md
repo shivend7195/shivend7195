@@ -1,7 +1,7 @@
-Hi 👋 My name is Shivend Singh
+Hi 👋 My name is SHIVEND SINGH
 ==============================
 
-Student
+OPEN FOR OPPORTUNITIES
 -------
 
 started learning to write thoughts into codes!!!
