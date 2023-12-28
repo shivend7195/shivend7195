@@ -6,10 +6,10 @@ OPEN FOR OPPORTUNITIES
 
 started learning to write thoughts into codes!!!
 
-* 🌍  I'm based in INDIA
+* 🌍  INDIAN
 * ✉️  You can contact me at [shiven7195@gmail.com](mailto:shiven7195@gmail.com)
 * 🧠  I'm aspiring GOLANG DEVELOPER
-* 🤝  I'm open to collaborating on projects that majorly demand C++ or GOLANG
+* 🤝  I'm open to collaborating on projects that majorly demand HTML | CSS | JAVASCRIPT | GOLANG | REACT
 
 ### Skills
 
