@@ -1,14 +1,14 @@
 Hi 👋 My name is SHIVEND SINGH
 ==============================
 
-OPEN FOR OPPORTUNITIES
+OPEN TO WORK :)
 -------
 
 started learning to write thoughts into codes!!!
 
 * 🌍  INDIAN
 * ✉️  You can contact me at [shiven7195@gmail.com](mailto:shiven7195@gmail.com)
-* 🧠  I'm aspiring GOLANG DEVELOPER
+* 🧠  I'm aspiring SOFTWARE DEVELOPER
 * 🤝  I'm open to collaborating on projects that majorly demand HTML | CSS | JAVASCRIPT | GOLANG | REACT
 
 ### Skills
